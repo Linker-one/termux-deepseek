@@ -41,6 +41,10 @@ pip install -U requests pygments termcolor python-dotenv rich mypy black ruff
 # .env 文件
 SILICONFLOW_API_KEY="your_api_key_here"
 ```
+## 使用方法
+```
+python main.py
+```
 
 ## 核心模块详解
 
